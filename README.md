@@ -30,4 +30,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hamzaouk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Pacman contribution graph](https://raw.githubusercontent.com/Hamzaouk/Hamzaouk/output/pacman-contribution-graph.svg)
+<!-- ![Pacman contribution graph](https://raw.githubusercontent.com/Hamzaouk/Hamzaouk/output/pacman-contribution-graph.svg) -->
+![Sneak contribution graph](https://raw.githubusercontent.com/Hamzaouk/Hamzaouk/output/sneak-contribution-graph.svg)
+
